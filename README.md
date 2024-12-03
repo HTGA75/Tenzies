@@ -5,10 +5,6 @@ npm install
 npm start
 ```
 
-Here’s a section you can add to your README file under "About This Project":
-
----
-
 ## About This Project
 
 This is a simple dice-based game built with React, designed to provide a fun and interactive experience. The objective of the game is to roll the dice and achieve a specific goal (e.g., matching numbers or reaching a target sum). Once you win, a confetti animation celebrates your success, adding a satisfying conclusion to the game.
